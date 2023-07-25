@@ -1,4 +1,9 @@
-### [Youtube](https://www.youtube.com/channel/UCpEYiOD5VxkK3iK7JmtbrPQ)        [ZURA](https://github.com/TheDevConnor/Zura-v2)
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/TheDevConnor/Zura-v2" data-show-count="true" aria-label="Follow @Zura on GitHub">Follow @Zura</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheDevConnor" />
 </a>
