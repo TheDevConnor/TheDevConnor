@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDevConnor&layout=compact) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDevConnor&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDevConnor&show_icons=true&theme=merko)
 
 <!--
 **TheDevConnor/TheDevConnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
