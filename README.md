@@ -1,6 +1,3 @@
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/TheDevConnor/Zura-v2" data-show-count="true" aria-label="Follow @Zura on GitHub">Follow @Zura</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheDevConnor" />
 </a>
