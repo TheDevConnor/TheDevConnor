@@ -26,6 +26,9 @@
   <a href="https://thedevconnor.github.io/TerminalWebsite/">
     <img src="https://img.shields.io/badge/Terminal%20Website-Visit-black?style=for-the-badge&logo=gnubash&logoColor=white" />
   </a>
+  <a href="https://www.connorharris.dev/">
+    <img src="https://img.shields.io/badge/ConnorHarris.dev-Visit-purple?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+  </a>
 </p>
 
 ---
