@@ -1,6 +1,6 @@
 # 👋 Hi, I'm TheDevConnor
 
-> 💻 Building languages (Zura, Lux) • 🎓 CS student • ⚙️ Systems programming enthusiast
+> 💻 Building languages (Zura, Luma) • 🎓 CS student • ⚙️ Systems programming enthusiast
 
 ---
 
@@ -22,6 +22,9 @@
 <p>
   <a href="https://thedevconnor.github.io/Zura-Website/">
     <img src="https://img.shields.io/badge/Zura%20Lang-Visit-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+   <a href="https://luma-website-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Luma%20Lang-Visit-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://thedevconnor.github.io/TerminalWebsite/">
     <img src="https://img.shields.io/badge/Terminal%20Website-Visit-black?style=for-the-badge&logo=gnubash&logoColor=white" />
